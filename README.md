@@ -11,7 +11,7 @@ g++ -o main main.cpp header.cpp
 
 ## Execution
 ```
-./main.exe # use admin as username and password to login
+./main.exe -- use admin as username and password to login
 
 ```
 
