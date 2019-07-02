@@ -1,4 +1,4 @@
-# Car Showroom Management Systen
+# Car Showroom Management System
 A console application of showroom management system implemented using Vectors. 
 
 ## Description
